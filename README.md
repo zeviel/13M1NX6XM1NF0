@@ -7,7 +7,7 @@ Script for getting information about community in amino
 - apt upgrade -y
 - pkg install python
 - pip install amino.py
-- git clone https://github.com/deluvsushi/13M1NX6XM1NF0
+- git clone https://github.com/zeviel/13M1NX6XM1NF0
 - cd 13M1NX6XM1NF0
 - python 13M1NX6XM1NF0.py
 ```
